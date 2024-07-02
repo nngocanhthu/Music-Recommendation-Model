@@ -1,7 +1,4 @@
 # Music-Recommendation-Model
-This report aims to develop a recommendation system for the KKBox music streaming service.
-
-# Music-Recommendation-Model
 
 ## 1. Objective
 This report aims to develop a recommendation system for the KKBox music streaming service.
